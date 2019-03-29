@@ -1005,7 +1005,7 @@ body,
 #hlcchcxmn label {
     color: #666
 }
-
+/* 
 html,
 body,
 h1,
@@ -1035,7 +1035,7 @@ blockquote {
 
 html {
     overflow-y: scroll
-}
+} */
 
 #b_content {
     clear: both;
@@ -1938,7 +1938,7 @@ h5 {
     font-size: 100%
 }
 
-body,
+
 .b_no h4,
 h2 .b_secondaryText,
 h2 .b_alert {
@@ -3525,10 +3525,10 @@ i {
     margin-top: 10px
 }
 
-.pos {
+/* .pos {
     float: left;
     font-weight: bold
-}
+} */
 
 .def_row {
     vertical-align: top
@@ -4043,11 +4043,11 @@ i {
 .content h2 {
     font-size: 100%
 }
-
+/* 
 a {
     text-decoration: none
-}
-
+} */
+/* 
 BODY {
     color: #000;
     line-height: normal;
@@ -4056,9 +4056,9 @@ BODY {
     font-style: normal;
     font-variant: normal;
     font-weight: normal;
-    /* min-width: 987px; */
+    // min-width: 987px; 
     margin: 0
-}
+} */
 
 .def {
     color: #333
